@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "86XMVIl/LwoCTWt9f7ry9mnAE/Qf8d7ncp+tGxAsczU=",
+  "Source": "AspNetCore.Identity",
+  "BasePath": "_content/AspNetCore.Identity",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
